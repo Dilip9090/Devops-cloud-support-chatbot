@@ -38,3 +38,6 @@ This workspace contains a Terraform-based AWS deployment for a ChatGPT-like web 
   Then open `http://localhost:11434` in your browser.
 - Or use AWS SSM Session Manager instead of SSH.
 - Adjust `instance_type`, `ami_id`, and `ollama_model` in `infrastructure/variables.tf` for your workload.
+=======
+# Devops-cloud-support-chatbot
+AI-powered DevOps &amp; Cloud Support Chatbot using Ollama Llama 3, deployed on AWS with Terraform in a secure private architecture.
