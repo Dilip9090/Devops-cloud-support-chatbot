@@ -1,0 +1,9 @@
+terraform {
+  backend "s3" {
+    bucket         = "YOUR-TERRAFORM-STATE-BUCKET"
+    key            = "ollama-chat/terraform.tfstate"
+    region         = "us-east-1"
+    dynamodb_table = "YOUR-TERRAFORM-LOCK-TABLE"
+    encrypt        = true
+  }
+}
