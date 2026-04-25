@@ -177,4 +177,4 @@ infrastructure/variables.tf
 
 ---
 
-👉 If you found this useful or interesting, feel free to star ⭐ the repo!
+👉 If you found this useful or interesting, feel free to star ⭐ the repo !
