@@ -1,4 +1,4 @@
-# 🚀 DevOps & Cloud Support Chatbot (Ollama Llama 3)
+# 🚀 DevOps & Cloud Support Chatbot (Ollama Llama 3) 
 
 This project is a personal attempt to build a **secure, AI-powered chatbot** that can help with DevOps and cloud-related queries — without relying on external APIs.
 
